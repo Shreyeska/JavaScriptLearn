@@ -1,0 +1,60 @@
+------- JavaScript Questions -------
+
+1. Function that takes two numbers as input and returns their sum.
+2. Function that takes a string as input and returns its length.
+3. Function that takes an array of numbers as input and returns the sum of all the numbers in the array.
+4. Function that takes a number as input and checks if it is positive, negative, or zero. Return "Positive," "Negative," or "Zero" accordingly.
+5. Function that takes two numbers as input and returns the larger of the two.
+6. Function that takes a string as input and checks if it contains the word "JavaScript". Return true if it does, false otherwise.
+7. Function that takes a number as input and checks if it is divisible by both 3 and 5. Return true if it is, false otherwise.
+8. Function that takes a number as input and checks if it is even. If it's even, return "Even," otherwise return "Odd".
+9. Function that takes two strings as input and checks if they are equal. Return true if they are equal, false otherwise.
+10. Function that takes a number as input and returns "Fizz" if the number is divisible by 3, "Buzz" if it's divisible by 5, and "FizzBuzz" if it's divisible by both 3 and 5. Otherwise, return the number itself.
+11. Function that takes a year as input and checks if it's a leap year. Return true if it's a leap year, false otherwise.
+12. Function that takes an array of numbers as input and returns the number of positive, negative, and zero values in the array as an object.
+13. Function that takes three numbers as input and returns the largest of the three without using the built-in `Math.max()` method.
+14. Program that prints numbers from 1 to 10.
+15. Program that prints even numbers from 1 to 20.
+16. Function that takes a number as input and prints a multiplication table for that number up to 10.
+17. Function that takes an array of numbers as input and calculates the sum of all the numbers using a loop.
+18. Program that iterates over an array of strings and prints each string to the console.
+19. Function that takes a number as input and checks if it's a prime number using a loop. Return true if it's prime, false otherwise.
+20. Program that iterates over an array of objects representing people (with name and age properties) and prints their names to the console.
+21. Function that takes a string as input and counts the number of occurrences of a specific character using a loop.
+22. Program that iterates over an array of numbers and returns a new array with each number squared.
+23. Function that takes a positive integer as input and prints a right-angled triangle of stars (*) with the given height.
+24. Function that takes an array of numbers as input and returns the product of all the numbers.
+25. Function that takes an array of strings as input and returns a new array with all the strings in uppercase.
+26. Function that takes an array of numbers as input and returns a new array with only the even numbers.
+27. Function that takes an array of strings as input and returns the number of strings that have more than five characters.
+28. Function that takes an array of numbers as input and returns the largest number in the array.
+29. Function that takes an array of strings as input and returns a new array with the strings sorted in alphabetical order.
+30. Function that takes an array of numbers as input and returns the average of those numbers.
+31. Function that takes an array of strings as input and returns a new array with the strings reversed.
+32. Function that takes two arrays as input and returns a new array with the elements of both arrays combined.
+33. Function that takes an array of numbers as input and returns a new array with only unique values (no duplicates).
+34. Create an object representing a person with properties: name, age, and city.
+35. Function that takes an object (representing a person) as input and prints their name and age to the console.
+36. Create an array of objects, each representing a book with properties: title, author, and year.
+37. Function that takes an array of book objects as input and returns an array with only the book titles.
+38. Function that takes an array of book objects as input and returns the total number of years (sum of years) for all books.
+39. Create an object representing a car with properties: make, model, and year.
+40. Function that takes a car object as input and returns a string with the make, model, and year combined (e.g., "Toyota Corolla 2022").
+41. Function that takes an array of car objects as input and returns the number of cars that are from a specific year.
+42. Create an object representing a student with properties: name, age, and grades (an array of numbers).
+43. Function that takes a student object as input and returns their average grade.
+44. Function that takes two numbers as arguments and returns their sum.
+45. Function that calculates the area of a rectangle. The function should take the width and height as parameters and return the area.
+46. Function that reverses a given string. For example, "hello" should return "olleh".
+47. Function to calculate the factorial of a given non-negative integer. The factorial of a non-negative integer `n` is the product of all positive integers less than or equal to `n`.
+48. Function that checks if a given word is a palindrome (reads the same forwards and backwards).
+49. Function that counts the number of vowels in each string.
+50. Function that takes a base and an exponent and returns the result of raising the base to the exponent.
+51. Function that finds the maximum of two numbers.
+52. Function that takes an array of numbers and returns the sum of all the elements.
+53. Function that takes an array of numbers and returns a new array containing only the positive numbers.
+54. Function that converts the first letter of each word in a sentence to uppercase.
+55. Function that reverses an array.
+56. Function that checks if a given number is prime.
+57. Function that concatenates two arrays.
+58. Function that generates the nth number in the Fibonacci sequence.

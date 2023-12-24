@@ -4,7 +4,11 @@ function checkString(str){
     return str.includes ("JavaScript");
 }
 
-const StringA =' This is JavaScript 123';
+const StringA =' This is JavaScript.';
 console.log (checkString(StringA));
-const StringB =' This is Python';
+const StringB =' This is Python.';
 console.log (checkString(StringB));
+
+
+console.log (checkString('This is JavaScript.'));
+console.log (checkString('This is Python.'));

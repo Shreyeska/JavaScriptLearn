@@ -14,7 +14,7 @@ Each day, a new directory will be created to represent a programming session (e.
 * I will explore advanced JavaScript concepts like closures, async/await, functional programming, and more to deepen my understanding of the language.
 
 # Progress Tracking
-* I will maintain a log in the Questions.txt file, which will contain the exercises completed during my JavaScript practice.
+* I will maintain a log in the `Questions.txt` file, which will contain the exercises completed during my JavaScript practice.
 * The log will help me track my progress, set goals, and reflect on the areas I need to focus on for improvement.
 * I will also add questions from Leetcode with one or few ways to solve it.
   

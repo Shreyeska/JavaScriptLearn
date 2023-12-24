@@ -6,4 +6,4 @@ function strlen (str){
 
 const input = 'This is JavaScript test for length';
 const len = strlen(input);
-console.log(len); // output = 23
+console.log(len); // output = 34

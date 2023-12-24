@@ -2,16 +2,16 @@
 
 function CheckNum(num){
     if(num < 0){
-        return 'The number is Negative';
+        return 'The number is Negative.';
     }
     else if (num > 0){
-        return 'The number is Positive';
+        return 'The number is Positive.';
     }
     else{
-        return 'The number is Zero';
+        return 'The number is Zero.';
     }
 }
 
-console.log(CheckNum(1));
-console.log (CheckNum(-1));
-console.log(CheckNum(0));
+console.log(CheckNum(1));//The number is Positive.
+console.log (CheckNum(-1));//The number is Negative.
+console.log(CheckNum(0));//The number is Zero.

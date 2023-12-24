@@ -10,4 +10,3 @@ function arrsum(numbers){
 const sumArray = [10,20,30,40,50];
 const add = arrsum(sumArray);
 console.log (add);
-

@@ -10,7 +10,6 @@ Each day, a new directory will be created to represent a programming session (e.
 # Guidelines
 * I will practice JavaScript regularly and challenge myself with different coding exercises and projects.
 * Before referring to any external resources or solutions, I will make an earnest effort to solve the problems on my own.
-* After completing each exercise or challenge, I will review my code for improvements and seek feedback to enhance my coding style.
 * I will explore advanced JavaScript concepts like closures, async/await, functional programming, and more to deepen my understanding of the language.
 
 # Progress Tracking

@@ -1,5 +1,3 @@
-const { resourceUsage } = require("process");
-
 //8. Function that takes a number as input and checks if it is even. If it's even, return "Even," otherwise return "Odd".
 function OddorEven(number){
     if (number%2 == 0){

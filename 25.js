@@ -10,5 +10,3 @@ function changeString(str){
 
 const string = ['alicn', 'rogue', 'azina', 'covey'];
 console.log(changeString(string));
-
-

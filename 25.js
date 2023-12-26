@@ -12,15 +12,6 @@ const string = ['alicn', 'rogue', 'azina', 'covey'];
 console.log(changeString(string));
 
 
-//29. Function that takes an array of strings as input and returns a new array with the strings sorted in alphabetical order.
-function AlphaSorting(str1){
-    const sorted = str1.slice().sort();
-    return sorted;
-}
-
-const ArrayofStrings = ['Banana', 'Terracotta', 'Pie'];
-console.log(AlphaSorting(ArrayofStrings));
-
 //30. Function that takes an array of numbers as input and returns the average of those numbers.
 
 function avgofarray(numbers){
@@ -33,6 +24,7 @@ function avgofarray(numbers){
 }
 const Arrayforaverage = [1,2,3,4,5];
 console.log(avgofarray(Arrayforaverage));
+
 
 //31. Function that takes an array of strings as input and returns a new array with the strings reversed.
 

@@ -11,21 +11,6 @@ function changeString(str){
 const string = ['alicn', 'rogue', 'azina', 'covey'];
 console.log(changeString(string));
 
-//26. Function that takes an array of numbers as input and returns a new array with only the even numbers.
-
-function EvenArray(numbers){
-    const even = [];
-    for(let i=0; i< numbers.length; i++){
-       if (numbers[i]%2 == 0){
-        even.push(numbers[i]);
-       }
-    }
-    return even;
-}
-
-const array = [1,2,3,4,5,6,8,9,10,21,22];
-console.log(EvenArray(array));
-
 //27. Function that takes an array of strings as input and returns the number of strings that have more than five characters.
 
 function stringCount(str){
@@ -91,6 +76,7 @@ const Arrayforaverage = [1,2,3,4,5];
 console.log(avgofarray(Arrayforaverage));
 
 //31. Function that takes an array of strings as input and returns a new array with the strings reversed.
+
 
 //32. Function that takes two arrays as input and returns a new array with the elements of both arrays combined.
 

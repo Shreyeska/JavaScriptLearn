@@ -7,6 +7,6 @@ function removeDuplicates(numbersArray) {
     return uniqueNumbersArray;
 }
 
-const numbersArray = [10, 10, 10, 20, 30, 30, 40, 50, 60, 60];
+const numbersArray = [10, 10, 10, 20 , 20, 30, 30, 40, 50, 60, 60];
 const result = removeDuplicates(numbersArray);
 console.log(result); // Output: [ 10, 20, 30, 40, 50, 60 ]

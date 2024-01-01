@@ -23,5 +23,4 @@ for (let i=0; i<3; i++){
     console.log (`${i+1}. Title: ${bookArray[i].title}`);
     console.log (`Author: ${bookArray[i].author}`);
     console.log (`Year: ${bookArray[i].year}`);
-
 }

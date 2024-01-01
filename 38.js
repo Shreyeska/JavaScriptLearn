@@ -25,5 +25,4 @@ function sumofYears(books){
     }
     return sum;
 }
-
 console.log(`Sum of all the years mentioned in the books is ${sumofYears(bookArray)}`);

@@ -45,4 +45,4 @@ function numberofCars(carsArray,targetYear){
     return count;
 }
 
-console.log(`The number of cars made in the year 2022 is: ${numberofCars(carsArray,targetYear)}`);
+console.log(`The number of cars made in the year ${targetYear} is: ${numberofCars(carsArray,targetYear)}`);

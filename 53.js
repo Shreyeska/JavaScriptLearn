@@ -9,6 +9,5 @@ function sumofPositiveNumbers(numbers){
     }
     return sum;
 }
-
 const arrayofNumers = [1,2,3,4,5,-5, -10];
 console.log (sumofPositiveNumbers(arrayofNumers));
